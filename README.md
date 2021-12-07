@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 <div align="center">
   <a href="https://github.com/melon-yellow">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=melon-yellow&show_icons=true&theme=aura&include_all_commits=true&count_private=true&nocache=4" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melon-yellow&layout=compact&langs_count=10&theme=aura&nocache=4" />
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melon-yellow&layout=compact&langs_count=10&theme=aura&nocache=4" />
 </div>
