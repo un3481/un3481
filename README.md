@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### |> Hello world.
+### > Hello world.
 
 <div align="center">
   <a href="https://github.com/melon-yellow">
