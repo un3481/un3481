@@ -16,12 +16,7 @@ Here are some ideas to get you started:
 
 ### > Hello world.
 
-<div align="center" display="inline-block">
-  <a href="https://github.com/un3481">
-  <div>
-    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=un3481&show_icons=true&theme=aura&include_all_commits=true&count_private=true&nocache=14" />
-  </div>
-  <div>
-    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=un3481&layout=compact&langs_count=8&theme=aura&nocache=14" />
-  </div>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=un3481&show_icons=true&theme=aura&include_all_commits=true&count_private=true&nocache=14" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=un3481&layout=compact&langs_count=8&theme=aura&nocache=14" />
 </div>
